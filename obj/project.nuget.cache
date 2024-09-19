@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iWPglQBN33aZJ0WioEON3FV7wLRKX7+CCMSzJ+AxnXKrWnamqbn8KTBNynl5ytaznuRnYFsI0ohexymfu/RALA==",
+  "dgSpecHash": "Lv0tIQVvGv3UxF/Hjhj4GnwDpCr93LAVYJIGCq6VZ8XH4QDQljspsR/9b35mXy9KhpakeVmIXneyOu/Ldr01Sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\Programming\\ASP.NET Core Web API .NET 8\\api.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\Programming\\ASPNETCoreWebAPINET 8\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

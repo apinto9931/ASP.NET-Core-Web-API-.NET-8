@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Desktop\\Programming\\ASP.NET Core Web API .NET 8\\api.csproj": {}
+    "C:\\Users\\Administrador\\Desktop\\Programming\\ASPNETCoreWebAPINET 8\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Desktop\\Programming\\ASP.NET Core Web API .NET 8\\api.csproj": {
+    "C:\\Users\\Administrador\\Desktop\\Programming\\ASPNETCoreWebAPINET 8\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\Programming\\ASP.NET Core Web API .NET 8\\api.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\Programming\\ASPNETCoreWebAPINET 8\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\Programming\\ASP.NET Core Web API .NET 8\\api.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Desktop\\Programming\\ASPNETCoreWebAPINET 8\\api.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\Programming\\ASP.NET Core Web API .NET 8\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Desktop\\Programming\\ASPNETCoreWebAPINET 8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
